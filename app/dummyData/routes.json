@@ -1,0 +1,917 @@
+{
+  "routes": [
+    {
+      "id": 0,
+      "name": "Coffee houses Route",
+      "duration": "3.5h",
+      "description": "Discover the more than 100-year-old coffee houses in Vienna!\n\nThere are plenty of traditional coffee houses in Vienna that have survived for over 100 years. In this route we will show you some Vienna's oldest traditional coffee houses that are over 100 years old!",
+      "tickets":"none",
+      "distance": 4,
+      "difficulty": "Easy",
+      "city": "Vienna",
+      "city-id": 1,
+      "image": "https://1000things.b-cdn.net/app/uploads/Cafe_Central-1344x756.jpg",
+      "favorites": false,
+      "start": "Cafè Central",
+      "theme": "coffee lover",
+      "challenges": [
+        {
+          "name": "Cafè Central",
+          "longitude": 16.36503,
+          "latitude": 48.21085,
+          "description": "Founded in 1876. For almost 145 years, the famous Cafè Central has been one of the most important places where tourists discover the flair of the old Viennese coffee house.\nMany of Vienna's famous personalities, lateral thinkers and authors (including Freud) were regulars at the café. In addition, writers and poets such as Alfred Polgar, Stefan Zweig, Arthur Schnitzler, Hugo von Hofmannsthal and architects such as Alfred Loos, as well as philosophers and revolutionaries such as Trotsky, Lenin and Stalin held court and engaged in wild discussions at the tables in the Cafe Central.",
+          "image": "https://1000things.b-cdn.net/app/uploads/Cafe_Central-1344x756.jpg",
+          "tipp": "The café starts every day at 5pm with live piano music that you can’t miss",
+          "type": "multiple",
+          "question": "Who is the statue in the cafe?",
+          "correctAnswer": "The statue in the cafe is Peter Altenberg.",
+          "answers": [
+            {
+              "correct": false,
+              "text": "Alfred Loos"
+            },
+            {
+              "correct": true,
+              "text": "Peter Altenberg"
+            },
+            {
+              "correct": false,
+              "text": "Josef Stalin"
+            },
+            {
+              "correct": false,
+              "text": "Franz Xaver"
+            }
+          ]
+        },
+        {
+          "name": "Cafè Frauenhuber",
+          "longitude": 16.372931,
+          "latitude": 48.205471,
+          "description": "Founded in 1314. The historic Café Frauenhuber is the oldest in Vienna. It is located in a building that dates back to 1746. History has it that this café was a house in 1720 that Maria Theresa's personal chef turned into a luxurious restaurant.\nThe Café Frauenhuber is not only the oldest coffee house in Vienna, but also known for the fact that W.A. Mozart and L. van Beethoven repeatedly played table music for the dining guests of this café in the years 1782-1791.",
+          "image": "https://scontent-vie1-1.xx.fbcdn.net/v/t1.6435-9/92964094_1336905103159500_8882948797215277056_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=730e14&_nc_ohc=R45uXDl2t7sAX_TpBLl&_nc_ht=scontent-vie1-1.xx&oh=00_AT9-LnpG_eLI6gAJc_AEjZDFJ0b5SN8kJbqvsZzOJx6Z7A&oe=62AEC391",
+          "tipp": "There is a plaque at the entryway stating their history with two of the most famous composers!",
+          "type": "multiple",
+          "question": "Which of the following classical music composers has ever performed in this café? ",
+          "correctAnswer": "Ludwig van Beethoven has ever performed in this café.",
+          "answers": [
+            {
+              "correct": true,
+              "text": "Ludwig van Beethoven"
+            },
+            {
+              "correct": false,
+              "text": "Johann Sebastian Bach"
+            },
+            {
+              "correct": false,
+              "text": "Johannes Brahms"
+            },
+            {
+              "correct": false,
+              "text": "Richard Wagner"
+            }
+          ]
+        },
+        {
+          "name": "Cafè Imperial",
+          "longitude": 16.37314,
+          "latitude": 48.2012,
+          "description": "Founded in 1873. For decades, Cafè Imperial has welcomed many famous visitors to its tables and takes the adage “the customer is king” very seriously.\nTheir \"Imperial Torte\" was the coffeehouse's signature cake. According to legend, it was created by the kitchen apprentice Xaver Loibner on the occasion of the opening of the Hotel Imperial in 1873 in honor of Emperor Franz Joseph I. Since then it has rightly been considered the most radiant jewel in the Viennese confectionery crown. Just like in 1873, the cake is an exquisite treat today: the melt-in-the-mouth chocolate icing, a slightly tart almond scent and the fusion of chocolate buttercream and marzipan result in an all-round perfect composition.",
+          "image": "https://cache.marriott.com/content/dam/marriott-renditions/VIEIL/vieil-imperial-wien-2391-hor-clsc.jpg",
+          "tipp": "Their signature cake ‘Imperial Torte’ is a must-try for every sweet tooth lovers!",
+          "type": "multiple",
+          "question": "What is Cafè Imperial's signature dessert?",
+          "correctAnswer": "Cafè Imperial's signature dessert is Imperial Torte.",
+          "answers": [
+            {
+              "correct": false,
+              "text": "Imperial Schweizer Rolle"
+            },
+            {
+              "correct": false,
+              "text": "Imperial Kaiserschmarrn"
+            },
+            {
+              "correct": false,
+              "text": "Imperial Käsekuchen"
+            },
+            {
+              "correct": true,
+              "text": "Imperial Torte"
+            }
+          ]
+        },
+        {
+          "name": "Cafè Goldegg",
+          "longitude": 16.376301,
+          "latitude": 48.189709,
+          "description": "Founded in 1910. So much history was written in Café Goldegg that the coffee house was officially declared a cultural monument. It was initially founded under the name Cafè Dobner and for a long time served as a local café for railway employees. During the Nazi regime, it became a meeting place for revolutionary socialists.\nNowadays, in this Art Nouveau coffee house you only meet those who enjoy the rich breakfast offer or hide for a while in one of the cozy green velvet booths.",
+          "image": "https://lokalfuehrer.stadtbekannt.at/wp-content/uploads/2015/03/Goldegg-Lokal-c-STADTBEKANNT.jpg",
+          "tipp": "The Schubertkirche (Schubert Church) is just down the road, where Schubert was christened and regularly performed.",
+          "type": "multiple",
+          "question": "Which Viennese coffee house family founded Café Goldegg?",
+          "correctAnswer": "Family Dobner founded Café Goldegg.",
+          "answers": [
+            {
+              "correct": false,
+              "text": "Querfeld"
+            },
+            {
+              "correct": true,
+              "text": "Dobner"
+            },
+            {
+              "correct": false,
+              "text": "Landtmann"
+            },
+            {
+              "correct": false,
+              "text": "Müller"
+            }
+          ]
+        },
+        {
+          "name": "Cafè Savoy",
+          "longitude": 16.354342,
+          "latitude": 48.195461,
+          "description": "Founded in 1897. From outside Café Savoy, you have no chance of making out what lives in this 18th-century building. When the café decided in 1896 that it wanted an imperial theme, its architect Franz von Neumann definitely replied, \"Say no more.\"\nOn the menu you will find the typical extended and melange, but also unusual alcoholic and rum-enriched hot drinks, such as the classic Viennese Pharisee and Maria Theresia coffee.",
+          "image": "https://live.staticflickr.com/3701/11972257294_97fd75dce4_b.jpg",
+          "tipp": "Besides the elegant wood paneling and green booths, the billiard tables here are also an attraction!",
+          "type": "multiple",
+          "question": "What was the original name of Café Savoy before it was renamed?",
+          "correctAnswer": "The original name of Café Savoy is Café Wienzeile.",
+          "answers": [
+            {
+              "correct": true,
+              "text": "Café Wienzeile"
+            },
+            {
+              "correct": false,
+              "text": "Café Imperial"
+            },
+            {
+              "correct": false,
+              "text": "Caféthek"
+            },
+            {
+              "correct": false,
+              "text": "Café Exxpresso"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "name": "Museums Route",
+      "duration": "6h",
+      "description": "A peek at the museums of classical composers in Vienna!\n\nIf you love classical music, you owe it to yourself to plan a trip to Vienna in Austria. In this route we will take you to discover the real residences and museums of these composers in Vienna!",
+      "tickets":"Combined ticket(Except Mozartwohnung, 20 euro): https://www.wienmuseum.at/de/musicus-ein-ticket-sechs-haeuser\n\nMozarthouse(12 euro): https://www.mozarthausvienna.at/en/VISIT/Opening-hours-prices",
+      "distance": 4.5,
+      "difficulty": "Medium",
+      "city": "Vienna",
+      "city-id": 2,
+      "image": "https://imgs.classicfm.com/images/196666?width=1000&crop=16_9&signature=_OvwWOqA6EZxbJ1aFE1uDtYJSlg=",
+      "favorites": false,
+      "start": "Wien Museum Beethoven",
+      "theme": "culture",
+      "challenges": [
+        {
+          "name": "Wien Museum Beethoven",
+          "longitude": 16.362259,
+          "latitude": 48.21239,
+          "description": "Ludwig van Beethoven, a German composer and pianist. Beethoven remains one of the most admired composers in the history of Western music; his works rank amongst the most performed of the classical music repertoire and span the transition from the Classical period to the Romantic era in classical music.\nBeethoven worked in Vienna for thirty-five years. Thereof he spent eight years living in this apartment on the fourth floor. The spectacular view over the then still undeveloped site of the fortification approaches towards the northern and north-western suburbs of Vienna kept drawing the composer back to Mölker Bastei after his various short stays in the country. Here he worked on his 4th, 5th, 6th, 7th, and 8th symphonies, among others, and above all on his opera \"Fidelio\".",
+          "image": "https://www.wienmuseum.at/fileadmin/_processed_/2/b/csm_Startbild_Standorte_Beethoven_Pasqualatihaus_5e3e5d52dc.jpg",
+          "tipp": "Ten-minute walk up Eroicagasse, a path leads along a path - the Beethovengang, which the master often visited",
+          "type": "multiple",
+          "question": "Which of Beethoven's symphonies was not completed in this apartment?",
+          "correctAnswer": "Beethoven worked on his 4th, 5th, 6th, 7th, and 8th symphonies in this apartment.",
+          "answers": [
+            {
+              "correct": true,
+              "text": "2nd"
+            },
+            {
+              "correct": false,
+              "text": "4th"
+            },
+            {
+              "correct": false,
+              "text": "6th"
+            },
+            {
+              "correct": false,
+              "text": "8th"
+            }
+          ]
+        },
+        {
+          "name": "Wien Museum Haydnhaus",
+          "longitude": 16.344988,
+          "latitude": 48.194251,
+          "description": "Franz Joseph Haydn, an Austrian composer of the Classical period. He was instrumental in the development of chamber music such as the string quartet and piano trio. His contributions to musical form have led him to be called \"Father of the Symphony\" and \"Father of the String Quartet\". He was a friend and mentor of Mozart, a tutor of Beethoven, and the elder brother of composer Michael Haydn. \nJoseph Haydn spent the last twelve years of his life in Gumpendorf, at that time an outlying village of Vienna. Having bought his house between two periods of stay in England, he extended it by one floor, moving in aged 65 in 1797. Here he died on May 31, 1809. The “Haydn” Orchestra Club rented part of the house, and also laid the founding stone for a Haydn Museum, subsequently opened in 1899.",
+          "image": "https://www.wienmuseum.at/fileadmin/_processed_/1/a/csm_Startbild_Standorte_Haydn_6298d1961d.jpg",
+          "tipp": "The ticket office has a very small shop, mainly selling a few Haydn books and CDs.",
+          "type": "multiple",
+          "question": "When did Haydn move into this house in Haydngasse?",
+          "correctAnswer": "Haydn moved into this house in 1797.",
+          "answers": [
+            {
+              "correct": false,
+              "text": "1757"
+            },
+            {
+              "correct": false,
+              "text": "1767"
+            },
+            {
+              "correct": false,
+              "text": "1787"
+            },
+            {
+              "correct": true,
+              "text": "1797"
+            }
+          ]
+        },
+        {
+          "name": "Mozartwohnung",
+          "longitude": 16.374933,
+          "latitude": 48.208217,
+          "description": "Wolfgang Amadeus Mozart, a prolific and influential composer of the Classical period. While visiting Vienna in 1781, he was dismissed from his Salzburg position. He chose to stay in Vienna, where he achieved fame but little financial security. During his final years in Vienna, he composed many of his best-known symphonies, concertos, and operas, and portions of the Requiem, which was largely unfinished at the time of his early death at the age of 35. The circumstances of his death are largely uncertain and have thus been much mythologized.\nVisitors start their tour of the new Mozarthaus on the third floor, where they can learn details about Mozart’s lifestyle. The exhibition on the second floor focuses mainly on Mozart’s operas. The Wien Museum Mozart apartment on the first floor is the rooms in which Mozart and his family actually lived.",
+          "image": "https://www.wienmuseum.at/fileadmin/_processed_/4/1/csm_Mozarthaus_Vienna_Aussenansicht_c1e62556ce.jpg",
+          "tipps": "Do really look out the windows while visiting, the city view more or less intact for over 200 years will amaze you.",
+          "type": "multiple",
+          "question": "Which floor of the Mozartwohnung is the room in which Mozart and his family actually lived?",
+          "correctAnswer": "Mozart and his family actually lived in first floor before.",
+          "answers": [
+            {
+              "correct": false,
+              "text": "Third floor"
+            },
+            {
+              "correct": true,
+              "text": "First floor"
+            },
+            {
+              "correct": false,
+              "text": "Fourth floor"
+            },
+            {
+              "correct": false,
+              "text": "Second floor"
+            }
+          ]
+        },
+        {
+          "name": "Schubert Geburtshaus",
+          "longitude": 16.355243,
+          "latitude": 48.227484,
+          "description": "Franz Peter Schubert, an Austrian composer of the late Classical and early Romantic eras. Despite his short lifetime, Schubert left behind a vast oeuvre. Today, Schubert is ranked among the greatest composers in the history of Western music and his work continues to be admired.\nSchubert Geburtshaus is the house where Schubert was born on 31 January 1797. It was then called \"Zum roten Krebsen\" (The Red Crab) and was situated in the Viennese suburb of Himmelpfortgrund. Here Schubert spent the first four and a half years of his childhood. The apartment of the large family consisted solely of one room and a \"Rauchkuchl\" (kitchen with open fire). Today a large part of the top floor is dedicated to the memory of the composer.",
+          "image": "https://www.wienmuseum.at/fileadmin/_processed_/2/1/csm_Startbild_Standorte_Geburtshaus_62b5a5a997.jpg",
+          "tipp": "The Schubertkirche (Schubert Church) is just down the road, where Schubert was christened and regularly performed.",
+          "type": "multiple",
+          "question": "How many years did Schubert spend in the Geburtshaus?",
+          "correctAnswer": "Schubert spent the first 4.5 years of his childhood here in the Geburtshaus.",
+          "answers": [
+            {
+              "correct": false,
+              "text": "1 year"
+            },
+            {
+              "correct": false,
+              "text": "2.5 years"
+            },
+            {
+              "correct": false,
+              "text": "3 years"
+            },
+            {
+              "correct": true,
+              "text": "4.5 years"
+            }
+          ]
+        },
+        {
+          "name": "Wien Museum Johann Strauß Wohnung",
+          "longitude": 16.387214,
+          "latitude": 48.215976,
+          "description": "Johann Baptist Strauss II, also known as Johann Strauss Jr., the Younger, the Son, was an Austrian composer of light music, particularly dance music and operettas. He composed over 500 waltzes, polkas, quadrilles, and other types of dance music, as well as several operettas and a ballet. In his lifetime, he was known as \"The Waltz King\", and was largely responsible for the popularity of the waltz in Vienna during the 19th century.\nIn 1867 in this apartment, Johann Strauss composed the world-famous waltz \"The Blue Danube\", Austria's \"unofficial national anthem\"! Strauss lived seven years on Praterstrasse, then a fashionable and elegant Viennese suburban street.",
+          "image": "https://www.wienmuseum.at/fileadmin/_processed_/9/8/csm_Startbild_Johann_Strauss_Wohnung_19f9b5ed35.jpg",
+          "tipp": "You can even listen to various performances of Strauss’s music in a room dedicated to that purpose.",
+          "type": "multiple",
+          "question": "Which world-famous waltz did Johann Strauss create in this apartment in 1867?",
+          "correctAnswer": "Johann Strauss composed the world-famous waltz \"The Blue Danube\" in this apartment in 1867.",
+          "answers": [
+            {
+              "correct": false,
+              "text": "Thoughtless Flights"
+            },
+            {
+              "correct": false,
+              "text": "Masked Ball"
+            },
+            {
+              "correct": true,
+              "text": "The Blue Danube"
+            },
+            {
+              "correct": false,
+              "text": "Thunder & Lightning"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Bookshops Route",
+      "duration": "2.5h",
+      "description": "Immerse yourself in books at the unique bookstores in Vienna!\n\nA city with a rich and complicated past, Vienna stands out as a literary highlight of our trip across Europe. While Vienna has its fair share of chain bookshops, a diverse range of independent bookshops and bookshop cafes call this city home as well. Top that off with one of the most beautiful libraries in the world, and Vienna is nothing short of a booklover's paradise.\n\nIn this route You'll find bookstores and libraries with different charms in Vienna! Hundertwasser Hause (11): https://order.wien-ticket.at/online/index.php3?wes=70iouttgrlum2k5boijpve78ivh020&query_pos=0&query_rows=100&set_query_pos=0&houseid=4356&performanceid=154605&state=3&nextstate=5\nSpittelau (0, need to make reservation for tour): https://events.xres.at\nVilla Wagner I/ Ernst Fuchs Museum(11): https://www.ernstfuchsmuseum.at/index.php?id=12",
+      "tickets":"Österreichische Nationalbibliothek(state hall 8 euro, combined 34 euro): https://ticket.onb.ac.at",
+      "distance": 12,
+      "difficulty": "Easy",
+      "city": "Vienna",
+      "city-id": 3,
+      "image": "https://www.kcblau.com/wp-content/uploads/2016/09/Shakespeare-Co-1-rs.jpg",
+      "favorites": false,
+      "start": "Österreichische Nationalbibliothek",
+      "theme": "library",
+      "challenges": [
+        {
+          "name": "Österreichische Nationalbibliothek",
+          "longitude": 16.3672898,
+          "latitude": 48.2060186,
+          "description": "As the largest library in Austria, the Austrian National Library is home to over 12 million books, documents, manuscripts, and other texts. This library has a very modern information centre with reading rooms and research facilities for academics, the beautiful State Hall, and five separate museums within the library complex (including a Literature museum and a Globe museum).\n\nThe State Hall was by far the biggest attraction for a lot of people, It’s an incredible baroque hall with towering painted ceilings and ornately carved balconies. It was built in the 18th century, and under its gorgeous decorated dome and frescoes are over 200,000 old tomes and four beautiful Venetian globes. It’s considered one of the most beautiful library halls in the world.",
+          "image": "https://www.onb.ac.at/fileadmin/user_upload/1_Sitemap/Ueber_Uns/Presse/Pressebilder/Allgemein/03_prunksaal.jpg",
+          "tipp": "Don't forget to look up at the various extraordinary ceiling frescoes.",
+          "type": "multiple",
+          "question": "Approximately how many books are in the library in total?",
+          "correctAnswer": "The Austrian National Library has over 3.9 million books.",
+          "answers": [
+            {
+              "correct": false,
+              "text": "1.5 million"
+            },
+            {
+              "correct": true,
+              "text": "3.9 million"
+            },
+            {
+              "correct": false,
+              "text": "7.6 million"
+            },
+            {
+              "correct": false,
+              "text": "11.2 million"
+            }
+          ]
+        },
+        {
+          "name": "Shakespeare and Company Booksellers",
+          "longitude": 16.3735961,
+          "latitude": 48.2117839,
+          "description": "Shakespeare and Company was founded 35 years ago by Guy's former boss. She had been inspired by her travels to Paris and the legendary bookshop with the same name, which was a meeting point for the likes of famous authors such as James Joyce and Hemingway. It's located in the oldest part of Vienna, the surrounding area is not to be missed.\n\nShakespeare and Company is an eccentric, winding, crowded and cozy English language bookshop with an excellent selection of classics, literary fiction, new and popular releases from the last decade or so. They also have a huge range of childrens books in the back room. Books are stacked in messy piles over every surface, filling every square centimetre of the tall bookshelves that are accessed using those tall, sweeping ladders. They also regularly hold events with authors both local and international, the details of which can be found on their blog.",
+          "image": "https://www.kcblau.com/wp-content/uploads/2016/09/Shakespeare-Co-1-rs.jpg",
+          "tipp": "The bookshop hold regularly events with authors both local and international, the details of which can be found on their blog.",
+          "type": "multiple",
+          "question": "The name of the store was inspired by the legendary bookshop with the same name in which city?",
+          "correctAnswer": "The store's name was inspired by the bookshop with the same name in Paris.",
+          "answers": [
+            {
+              "correct": true,
+              "text": "Paris"
+            },
+            {
+              "correct": false,
+              "text": "London"
+            },
+            {
+              "correct": false,
+              "text": "New York"
+            },
+            {
+              "correct": false,
+              "text": "Tokyo"
+            }
+          ]
+        },
+        {
+          "name": "Phil",
+          "longitude": 16.3614561,
+          "latitude": 48.2005679,
+          "description": "Phil is one part modern hipster coffee shop, one part bookstore, and one final part bar. They sold a large range of books, from glossy art and design to philosophy and other non-fiction, but mostly in German.\n\nThe book shelves that tower above the young crowd seated at sofa and coffee table setups ensures the vibe floating about here is always one of the good and inspiring stuff that a shelf full of books emit. A great modern design and free wifi makes it easy to linger over a book or catch up on some work.\n\nThe music is appropriately chill, the couches appropriately comfy, making Phil a great place to sink into and wile away the day. As a complement to the daily program, Phil also hosts lectures and film evenings.",
+          "image": "https://2srlg717807wbcsn21akmkj1-wpengine.netdna-ssl.com/wp-content/uploads/2018/03/viennawurstelstand_phil-header.jpg",
+          "tipp": "A range of gift books found on the counter is a perfect present idea for friends.",
+          "type": "multiple",
+          "question": "Which of the following businesses does not apply to Phil?",
+          "correctAnswer": "Phil is a book shop, coffee shop, and bar at the same time.",
+          "answers": [
+            {
+              "correct": false,
+              "text": "Book shop"
+            },
+            {
+              "correct": false,
+              "text": "Bar"
+            },
+            {
+              "correct": false,
+              "text": "Coffee shop"
+            },
+            {
+              "correct": true,
+              "text": "Restaurant"
+            }
+          ]
+        },
+        {
+          "name": "Antiquariat Burgverlag",
+          "longitude": 16.3620041,
+          "latitude": 48.205227,
+          "description": "Antiquariat Burgverlag is an antique bookstore, offering used and rare books of all kinds and in various languages. It is located right in the heart of the Austrian capital of Vienna, with just a few steps from the famous Opera House and the Museums Quartier stands. Burgverlag has been around for almost a century - operating since 1920.\n\nWalking into the store feels very much like walking into a book: dark wooden shelves stuffed with leather bound volumes, pretty vintage paraphernalia strewn around. Though most of the books are in German, editions in English, French and other languages can be found there. It is a place for all the book lovers to come and take a look and browse through their selection of rare and old prints.",
+          "image": "https://i.pinimg.com/originals/5d/3c/17/5d3c1728e462fe3a8a3f22a6dd875244.jpg",
+          "tipp": "This is a place for all the book lovers for selection of rare and old prints in in the vintage hard covers.",
+          "type": "multiple",
+          "question": "In which year did Antiquariat Burgverlag start operating?",
+          "correctAnswer": "Antiquariat Burgverlag started operating since 1920.",
+          "answers": [
+            {
+              "correct": true,
+              "text": "1920"
+            },
+            {
+              "correct": false,
+              "text": "1940"
+            },
+            {
+              "correct": false,
+              "text": "1960"
+            },
+            {
+              "correct": false,
+              "text": "1980"
+            }
+          ]
+        },
+        {
+          "name": "Anna Jeller Buchhandlung",
+          "longitude": 16.363418,
+          "latitude": 48.1951114,
+          "description": "The Anna Jeller book store is a true temple to the written word. The owner, Anna, who opened up the shop on the Margaretenstrasse in 1985, is a passionate enthusiast of literature, always happy to give you her personal recommendations or advice on gifts. The shelves contain generous collections of fiction and non-fiction, with a particular focus on contemporary Austrian literature and a great selection of cookery books.\n\nEven books that are already out of print can be ordered here. A special book porn treat can be found in the shop’s windows, which feature colorful displays of books that have been arranged with care, and to give you a preview of what the store has to offer.",
+          "image": "https://2srlg717807wbcsn21akmkj1-wpengine.netdna-ssl.com/wp-content/uploads/2021/02/vienna-wurstelstand-bookstores-to-visit-anna-jeller.jpg",
+          "type": "multiple",
+          "question": "Who is the prototype of the store name Anna Jeller?",
+          "correctAnswer": "The name of the store comes from the owner's name",
+          "answers": [
+            {
+              "correct": false,
+              "text": "A movie star"
+            },
+            {
+              "correct": false,
+              "text": "The owner's mother"
+            },
+            {
+              "correct": true,
+              "text": "The owner"
+            },
+            {
+              "correct": false,
+              "text": "The owner's sister"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Buildings Route",
+      "description": "Check out the strangest buildings in Vienna!\n\nMost people associate Vienna with the impressive buildings of the Ringstrasse and the historical buildings of the old town. Meanwhile, the Austrian metropolis hides many unusual buildings that are considered to be works of art or, on the contrary, are sometimes regarded as kitsch and simply ugly.\n\nIn this route we present to you a list of the strangest buildings in Vienna!",
+      "duration": "4.5h",
+      "tickets":"Hundertwasser Hause (11 euro): https://order.wien-ticket.at/online/index.php3?wes=70iouttgrlum2k5boijpve78ivh020&query_pos=0&query_rows=100&set_query_pos=0&houseid=4356&performanceid=154605&state=3&nextstate=5\n\nSpittelau (free but need to make reservation for tour): https://events.xres.at\n\nVilla Wagner I/ Ernst Fuchs Museum(11 euro): https://www.ernstfuchsmuseum.at/index.php?id=12",
+      "distance": 25,
+      "difficulty": "Hard",
+      "city": "Vienna",
+      "city-id": 5,
+      "image": "https://epepa.eu/wp-content/uploads/2018/10/hundertwasserhous-quirky-building-in-vienna.jpg",
+      "favorites": false,
+      "start": "Hundertwasserhaus",
+      "theme": "architecture",
+      "challenges": [
+        {
+          "name": "Hundertwasserhaus",
+          "longitude": 16.3939944,
+          "latitude": 48.2075444,
+          "description": "The Hundertwasserhaus is one of Vienna's most popular attractions. Every day, crowds of tourists visit this place taking pictures of the colorful facade. Some people like Hundrtwasserhaus very much, others consider it ugly and kitschy.\n\nIts creator Friendenserich Hundertwasser hated straight lines and angles, he was an ecologist and the buildings he designed are a combination of architecture and nature. The house has 50 apartments, each of which has been mapped on the facade with a different color. On the roof of the building, there are 19 gardens, in which 250 trees and shrubs grow, and a golden church crown. It is interpreted as \"the crown of the inhabitants of the house\". ",
+          "image": "https://epepa.eu/wp-content/uploads/2018/10/hundertwasserhous-quirky-building-in-vienna.jpg",
+          "tipp": "In the \"Art and Café\" coffee house on the ground floor of the Hundertwasser House, a film can be seen free of charge.",
+          "type": "multiple",
+          "question": "How many apartments are there in this house?",
+          "correctAnswer": "The house has 50 apartments.",
+          "answers": [
+            {
+              "correct": false,
+              "text": "10"
+            },
+            {
+              "correct": false,
+              "text": "30"
+            },
+            {
+              "correct": true,
+              "text": "50"
+            },
+            {
+              "correct": false,
+              "text": "70"
+            }
+          ]
+        },
+        {
+          "name": "Spittelau",
+          "longitude": 16.3599254,
+          "latitude": 48.2334731,
+          "description": "The Spittelau waste incineration plant is another architecture in Vienna designed by Friendensreich Hundertwasser  following a major fire in 1989. It not only provides clean energy, but is also a part of the city's skyline, with their artistic and innovative design.\n\nThe tall blue chimney with a golden dome, like from the 'Tales of the Thousand and One Nights', catches the eyes of passers-by, while the colorful mosaic and bullet-topped turrets complement the works.\n\nAs one of the most state-of-the-art hydroelectric power plants in the world, it supplies electricity to half of all homes in Vienna. More than 14,000 boats pass through the power plant's locks every year. These locks lift boats 10 meters almost imperceptibly in about 20 minutes.",
+          "image": "https://epepa.eu/wp-content/uploads/2018/10/spittelau-vienna-hundertwasser.jpg",
+          "tipp": "From there take the left side of Donaukanal and enjoy the Viennese street art",
+          "type": "multiple",
+          "question": "What kind of building is Spittelau?",
+          "correctAnswer": "The Spittelau is a power plant.",
+          "answers": [
+            {
+              "correct": true,
+              "text": "Power plant"
+            },
+            {
+              "correct": false,
+              "text": "Museum"
+            },
+            {
+              "correct": false,
+              "text": "Military base"
+            },
+            {
+              "correct": false,
+              "text": "School"
+            }
+          ]
+        },
+        {
+          "name": "Vienna Peace Pagoda",
+          "longitude": 16.4450352,
+          "latitude": 48.19714,
+          "description": "Vienna Peace Pagoda (Friedenspagode Wien) is located on the bank of the Danube, in the green Prater area. It was founded in 1983, when Buddhism was officially recognized as a religion in Austria. It is currently under the care of the Japanese monk Gyosei Masunagi, who lives here alone.\n\nBuddha is encased in a white dome structure and the monument symbolises the unity of all humans, and the hope for the common cause of world peace, no matter your background, or religion. If you want to show respect for the temple, you should first stop with folded hands in front of the Buddha statue, and then go around the temple three times clockwise. Then you can light a few incense sticks.",
+          "image": "https://epepa.eu/wp-content/uploads/2018/10/vienna-peace-pagoda.jpg",
+          "tipp": "The bulding is open for the public, so if you want to relax from the long turist trip that is the right place",
+          "type": "multiple",
+          "question": "In which century was the Vienna Peace Pagoda built?",
+          "correctAnswer": "Vienna Peace Pagoda was built in 20th century.",
+          "answers": [
+            {
+              "correct": false,
+              "text": "18 Century"
+            },
+            {
+              "correct": false,
+              "text": "19 Century"
+            },
+            {
+              "correct": true,
+              "text": "20 Century"
+            },
+            {
+              "correct": false,
+              "text": "21 Century"
+            }
+          ]
+        },
+        {
+          "name": "Gasometers of Vienna",
+          "longitude": 16.4187257,
+          "latitude": 48.1850756,
+          "description": "The Vienna Gasometers are four gasholder houses, built as part of the municipal gas works (Gaswerk Simmering) in Vienna, Austria, from 1896 to 1899. They are located in the 11th district, Simmering. They were used from 1899 to 1984 to house gas holders. After the changeover from town gas to natural gas between 1969 and 1978, they were no longer used and were shut down.\n\nSince the end of the 1990s, four teams of star architects have been working on converting four 102-year-old gasometers into a new urban complex. Currently in the Gasometers there are 800 apartments, a dormitory, a music hall, a cinema, and a municipal archive.",
+          "image": "https://epepa.eu/wp-content/uploads/2018/10/gasometer-wien.jpg",
+          "tipp": "Nowadays the place is used for parties and filming some James Bond movies. If you want to experience some night life in Vienna you can check for upcoming events there",
+          "type": "multiple",
+          "question": "What was Gasometers built for in the first place?",
+          "correctAnswer": "The Gasometers was built for gasholder hourses in the first place.",
+          "answers": [
+            {
+              "correct": true,
+              "text": "As gasholder house"
+            },
+            {
+              "correct": false,
+              "text": "As military base"
+            },
+            {
+              "correct": false,
+              "text": "As museum"
+            },
+            {
+              "correct": false,
+              "text": "As government office"
+            }
+          ]
+        },
+        {
+          "name": "Villa Wagner I",
+          "longitude": 16.2559043,
+          "latitude": 48.2099199,
+          "description": "Not everyone knows that on the outskirts of Vienna there is an impressive Art Nouveau building, Villa Wagner I. Its creator was Otto Wagner, the famous Viennese architect. Villa Wagner I was built in the late 1880s for Otto Wagner's own use.\n\nThe fully-restored villa looks magnificent with its yellow and gold exterior, with a columned Arcadian entrance flanked by two wings. It is a very fancy, colorful and very interesting building. Inside the Saal, you’re immediately struck by the bright natural light, the gold Jugendstil wall and ceiling decoration, and the glass windows mosaic titled Herbstlandschaft im Wienerwald. Currently, the villa houses the museum of Ernst Fuchs, the painter who in later years lived and created here.",
+          "image": "https://epepa.eu/wp-content/uploads/2018/10/vienna-villa-wagner-i.jpg",
+          "tipp": "It is one of the most beautiful places in Vienna and a perfect spot for a grate travel photos",
+          "type": "multiple",
+          "question": "Which viennese architect was the creator of Villa Wagner I?",
+          "correctAnswer": "Otto Wagner created the Villa Wagner I.",
+          "answers": [
+            {
+              "correct": false,
+              "text": "Adolf Loos"
+            },
+            {
+              "correct": false,
+              "text": "Victor Luntz"
+            },
+            {
+              "correct": true,
+              "text": "Otto Wagner"
+            },
+            {
+              "correct": false,
+              "text": "Fritz Wotruba"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Parks Route",
+      "description": "Surround yourself with nature in Vienna's parks!\n\nWith approximately 50 percent of the city (about 200 square kilometers) are green areas, Vienna is one of the greenest cities in Europe. A large part of these green areas is for free public use. There are a great number of parks in the city, where you can enjoy your free time or just get inspiration from the history or the park theme. \n\nIn this route you can find the most liked green zones in the city!",
+      "duration": "5h",
+      "tickets":"none",
+      "distance": 5,
+      "difficulty": "Medium",
+      "city": "Vienna",
+      "city-id": 4,
+      "image": "https://www.belvedere.at/sites/default/files/styles/image_teaser/public/2019-06/Oberes_Belvedere_Nordseite_Blumen.jpg?h=b332d865&itok=7q2_SeBq",
+      "favorites": true,
+      "start": "Volksgarten",
+      "theme": "nature",
+      "challenges": [
+        {
+          "name": "Volksgarten",
+          "longitude": 16.3617866,
+          "latitude": 48.2080354,
+          "description": "The Volksgarten is a public park on the Ringstrasse in the 1st district of Vienna, Inner City. The park was originally intended as a private garden for the archdukes, but at the suggestion of the court garden administration it became the first publicly accessible park owned by the court and was ceremonially opened on March 1, 1823. From 1825 the name Volksgarten was in use.\n\nThe Volksgarten is laid out on the Hofburg side in the form of an English park with a sparse stock of trees in avenues. Between the entrance at the Burgtheater and the Grillparzer monument there is a rose garden with over 3000 rose bushes of more than 200 types of roses. In the center of the rose garden are rose beds framed by boxwood hedges, which contain most of the rose plants. Since 2001, the Volksgarten has also been part of the UNESCO World Heritage Site Historic Center of Vienna.",
+          "image": "https://img.fotocommunity.com/volksgarten-in-wien-e8b08055-aafe-4b93-bda1-a82e19a9a94a.jpg?height=1080",
+          "tipp": "A great place to take pictures is around the rose bushes, and if you like them a lot you can also buy a patent and have your name on one of the plates in front of them.",
+          "type": "multiple",
+          "question": "Who created the statue of a young athlete standing in front of the Theseus Temple?",
+          "correctAnswer": "The statue was created by Josef Müllner.",
+          "answers": [
+            {
+              "correct": false,
+              "text": "Joannis Avramidis"
+            },
+            {
+              "correct": false,
+              "text": "Josef Thorak"
+            },
+            {
+              "correct": true,
+              "text": "Josef Müllner"
+            },
+            {
+              "correct": false,
+              "text": "Georg Ehrlich"
+            }
+          ]
+        },
+        {
+          "name": "Burggarten",
+          "longitude": 16.3672898,
+          "latitude": 48.2060186,
+          "description": "The Burggarten is a public park on Vienna's Ringstrasse. Like the Volksgarten, the complex was planned by Ludwig Gabriel von Remy and court gardener Franz Antoine the Elder. In 1919 the park was made public and briefly renamed the Garden of the Republic and finally the Burggarten. 1988-1992 underground storage for the Austrian National Library was created under the terrace in front of the New Castle.\n\nLudwig von Remy originally had two glass houses built here, which were replaced from 1900 by today's secessionist palm house by Friedrich Ohmann. Today the butterfly house with tropical plants and butterflies is located in the left wing, the middle part is used by a café-restaurant.",
+          "image": "https://www.freizeitferien.info/images/oesterreich/wien/gruenraeume-und-parks/01-innere-stadt/burggarten-mozartdenkmal.jpg",
+          "tipp": "When you are there you can visit the zoo and make a beautiful pictures with a lot different colorful butterflies flying around you",
+          "type": "multiple",
+          "question": "There is an insect zoo in the Burggarten. What insect is it?",
+          "correctAnswer": "There is a butterfly zoo in the Burggarten.",
+          "answers": [
+            {
+              "correct": true,
+              "text": "Butterfly"
+            },
+            {
+              "correct": false,
+              "text": "Tiger"
+            },
+            {
+              "correct": false,
+              "text": "Spider"
+            },
+            {
+              "correct": false,
+              "text": "Dog"
+            }
+          ]
+        },
+        {
+          "name": "Belvedere Schlossgarten",
+          "longitude": 16.3798261,
+          "latitude": 48.1912243,
+          "description": "Belvedere Palace is divided into two building units. The Upper and Lower Belvedere, both built in the 18th century by order of Prince Eugene of Savoy. In between there is a huge garden area. The castle served as the Viennese summer residence for the successful general Prince Eugene of Savoy.The baroque castle garden was created between 1700 and 1721 according to the concept of the garden architect Dominique Girard, who worked at the Munich court and was once a student of André Le Nôtre.\n\nLe Nôtre designed the gardens of the Palace of Versailles for Louis XIV. The Belvedere palace garden is structured symmetrically along a central axis based on the French model and includes trees and hedges trimmed to shape, numerous sculptures and various water features. The historic orangery is still open to visitors today.\n\nStaged path systems with lines of sight lead to the heart of the complex, the Upper Belvedere. In front of the entrance to the castle, two concise sphinx figures stand guard. They embody power and strength paired with human insight. In addition to the baroque gardens, the Belvedere area is also home to one of the oldest alpine gardens in Europe. It covers an area of over 2,500 m² and is home to around 4,000 alpine plant species from all over the world.",
+          "image": "https://www.belvedere.at/sites/default/files/styles/image_teaser/public/2019-06/Oberes_Belvedere_Nordseite_Blumen.jpg?h=b332d865&itok=7q2_SeBq",
+          "tipp": "If you are a fan of morining jogging that is the best spot for you",
+          "type": "multiple",
+          "question": "What is the type of the garden?",
+          "correctAnswer": "The Belvedere Schlossgarten is a Baroque garden.",
+          "answers": [
+            {
+              "correct": false,
+              "text": "Byzantine"
+            },
+            {
+              "correct": false,
+              "text": "Dutch"
+            },
+            {
+              "correct": false,
+              "text": "Renaissance"
+            },
+            {
+              "correct": true,
+              "text": "Baroque"
+            }
+          ]
+        },
+        {
+          "name": "Prater Park",
+          "longitude": 16.403484344482422,
+          "latitude": 48.21445083618164,
+          "description": "The Vienna Prater is a spacious, approximately 6 km², mostly public area in the 2nd district of Vienna, Leopoldstadt, which still consists largely of floodplain landscapes originally shaped by the Danube. When people talk about the \"Prater\" outside of Vienna, they often only mean the well-known amusement park in the Prater, the Wurstelprater.\n\nThe green Prater Park is a busy city park, which is regularly visited by runners, walkers, couples in love, or other people because of its idyll and great view of nature. In the middle of the Prater, you will find the 4.5 km long Prater Hauptallee, which is something like the lifeline of the park. It connects the traffic junction Praterstern with the Lusthaus, an extremely well-known Viennese restaurant.",
+          "image": "https://www.museos.com/wp-content/uploads/2021/05/Praterpark-2.jpg",
+          "tipp": "If you want to escape of the nosie of the city just take a picnicblanket and sit on the grass in the park",
+          "type": "multiple",
+          "question": "How long is the Hauptallee of Prater Park?",
+          "correctAnswer": "The Hauptallee of Prater Park is 4.5 km long.",
+          "answers": [
+            {
+              "correct": true,
+              "text": "4.5km"
+            },
+            {
+              "correct": false,
+              "text": "3.3km"
+            },
+            {
+              "correct": false,
+              "text": "10.6km"
+            },
+            {
+              "correct": false,
+              "text": "6.7km"
+            }
+          ]
+        },
+        {
+          "name": "Augarten",
+          "longitude": 16.3777107,
+          "latitude": 48.2244472,
+          "description": "The Augarten is a public park of 52.2 hectares (129 acres) situated in Leopoldstadt, the second district of Vienna, Austria. It contains the city's oldest Baroque park.\n\nThe park is designed in the French Baroque style with elaborate flower gardens and impressive shady avenues of chestnut, lime, ash, and maple. Like most fenced public parks and gardens in Vienna it is open only in the daytime: the park's five gates close at sunset (signalled by a siren).\n\nThe Augarten hosts a variety of facilities such as the Wiener Sängerknaben (the Vienna Boys' Choir) in the Palais Augarten, the Augarten Porzellanmanufaktur (Augarten porcelain factory), the Augarten Contemporary (part of the Österreichische Galerie Belvedere, the Austrian Gallery housed in the Belvedere), the Filmarchiv Austria, a retirement home, a Jewish academic campus (called Lauder Chabad Campus), a paddling pool for children and sports fields. Significant testimonials to the Third Reich are two high anti-aircraft bunkers (flak towers).",
+          "image": "https://www.stadt-wien.at/fileadmin/content/pics/Augarten_c_BMLFUW_Michalski.jpg",
+          "tipp": "Except the big grey flak towers in Augarten you can also visit there also the second biggest porcelain fabric in Europa",
+          "type": "multiple",
+          "question": "How many gates (entrances) are there in the park?",
+          "correctAnswer": "There are 5 gates in total in the park.",
+          "answers": [
+            {
+              "correct": false,
+              "text": "1"
+            },
+            {
+              "correct": false,
+              "text": "3"
+            },
+            {
+              "correct": true,
+              "text": "5"
+            },
+            {
+              "correct": false,
+              "text": "7"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Art Nouveau",
+      "description": "Experience the city of Gustav Klimt, Egon Schiele and Otto Wagner. Discover unique art museums and the brilliant splendor of Vienna’s Art Nouveau facades.\n\nBesides top works of Wiener Jugendstil like the Vienna Secession and Otto Wagner buildings you will discover precious hidden gems.",
+      "tickets":"none",
+      "duration": "20min",
+      "distance": 0.5,
+      "difficulty": "Easy",
+      "city": "Vienna",
+      "city-id": 4,
+      "image": "https://www.wien.info/resource/image/291334/19x10/1200/630/792b6225a85614ecc84c07b7b22fc012/Hc/50267-secession-jugendstil.jpg",
+      "favorites": true,
+      "start": "Karlsplatz Station",
+      "theme": "center",
+      "challenges": [
+        {
+          "name": "Karlsplatz Station",
+          "longitude": 16.370263,
+          "latitude": 48.200236,
+          "description": "Although they seem lost in the square’s vast space, the two Otto Wagner pavilions deserve a close look. In the photo you can see that they brim with gorgeous Jugendstil ornaments in green and gold. Until 1981, these were the most spectacular city train stations of Wien. As a matter of fact, only the public outcry saved them from being demolished.\n\nOne of the pavilions houses a small and compact exhibition of Otto Wagner’s visionary works as an artist and architect of Viennese Art Nouveau and Modernism.\n\nThe U4 underground station was also designed by Otto Wagner, who was responsible for the design of most of the beautiful green cast iron stations along the U4 overground line.",
+          "image": "https://www.wien.info/resource/image/291304/19x10/1200/630/64b9a7d649a60ce7db004d70c711c69c/Gx/50239-otto-wagner-stadtbahn-pavillon.jpg",
+          "tipp": "If the weather is not rainy, for sure in front of Karlskirche evry weekend night it will be full with people listening music and enjoying life",
+          "type": "multiple",
+          "question": "Which metro lines are operating at the station?",
+          "correctAnswer": "The metro lines U4 and U1 are currently operating at the Station.",
+          "answers": [
+            {
+              "correct": true,
+              "text": "U4"
+            },
+            {
+              "correct": true,
+              "text": "U1"
+            },
+            {
+              "correct": false,
+              "text": "U6"
+            },
+            {
+              "correct": false,
+              "text": "U7"
+            }
+          ]
+        },
+        {
+          "name": "Vienna Secession",
+          "longitude": 16.365910,
+          "latitude": 48.200408,
+          "description": "Since the Secession is so iconic for Wiener Jugendstil it has to form part of this walk.\n\nIn 1897, Gustav Klimt and other secessionist artists founded the club of revolutionary artists, which produced this breathtaking building. Before you pay tribute to the sensational Frieze, take some time to walk around the building which is full of beautiful reliefs and ornaments. Read more in my review of the Vienna Secession.",
+          "image": "https://www.wien.info/resource/image/419414/19x10/1200/630/2c0323a65d2ad481e9897fd0b6ba554f/be/secession.jpg",
+          "tipp": "If you are fan of the unused art you need to visit the museum",
+          "type": "multiple",
+          "question": "What does the Building represent?",
+          "correctAnswer": "The Secession represents an art movement that seceded from the long-established fine art institution.",
+          "answers": [
+            {
+              "correct": false,
+              "text": "Cooking school"
+            },
+            {
+              "correct": false,
+              "text": "Vegan lifestyle"
+            },
+            {
+              "correct": false,
+              "text": "Anti fascism"
+            },
+            {
+              "correct": true,
+              "text": "Art movement"
+            }
+          ]
+        },
+        {
+          "name": "Naschmarkt",
+          "longitude": 16.364723,
+          "latitude": 48.199246,
+          "description": "Why do I include a flea and food market such as Vienna’s Naschmarkt in the Art Nouveau walk? Because its around 120 lovely landmarked stalls and shops date from the early 20th century.\n\nMost of them have the original swirly dark green cast iron structure that you will also find at many U4 underground stations in the area. On top, the Naschmarkt spans the bridge between daily Art Nouveau architecture and one of the most bustling contemporary areas of Vienna.\n\nNot to mention that some of the finest Art Nouveau buildings by renown architect Otto Wagner gather just around the Naschmarkt.",
+          "image": "https://oekastatic.orf.at/mims/2019/39/30/crops/w=1280,q=90/317450_bigpicture_96730_naschmarkt_013.jpg?s=a26b54e37c2d1287653fd6ec9a85d32991ee8df1",
+          "tipp": "When you are there dont miss the chance do buy some bio farmer products. If you decide to eat don't sit in the market but try the small allay around it is cheaper and the atmosphere is better",
+          "type": "multiple",
+          "question": "What color are most of the market stalls painted?",
+          "correctAnswer": "The typical green metal pavillions are famous for the art nouveau.",
+          "answers": [
+            {
+              "correct": false,
+              "text": "Red"
+            },
+            {
+              "correct": false,
+              "text": "White"
+            },
+            {
+              "correct": true,
+              "text": "Green"
+            },
+            {
+              "correct": false,
+              "text": "Pink"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
